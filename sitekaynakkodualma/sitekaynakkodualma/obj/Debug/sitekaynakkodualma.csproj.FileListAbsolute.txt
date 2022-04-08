@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Desktop\sitekaynakkodualma\sitekaynakkodualma\bin\Debug\sitekaynakkodualma.exe.config
+C:\Users\Lenovo\Desktop\sitekaynakkodualma\sitekaynakkodualma\bin\Debug\sitekaynakkodualma.exe
+C:\Users\Lenovo\Desktop\sitekaynakkodualma\sitekaynakkodualma\bin\Debug\sitekaynakkodualma.pdb
+C:\Users\Lenovo\Desktop\sitekaynakkodualma\sitekaynakkodualma\obj\Debug\sitekaynakkodualma.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\sitekaynakkodualma\sitekaynakkodualma\obj\Debug\sitekaynakkodualma.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Desktop\sitekaynakkodualma\sitekaynakkodualma\obj\Debug\sitekaynakkodualma.Form1.resources
+C:\Users\Lenovo\Desktop\sitekaynakkodualma\sitekaynakkodualma\obj\Debug\sitekaynakkodualma.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\sitekaynakkodualma\sitekaynakkodualma\obj\Debug\sitekaynakkodualma.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\sitekaynakkodualma\sitekaynakkodualma\obj\Debug\sitekaynakkodualma.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\sitekaynakkodualma\sitekaynakkodualma\obj\Debug\sitekaynakkodualma.exe
+C:\Users\Lenovo\Desktop\sitekaynakkodualma\sitekaynakkodualma\obj\Debug\sitekaynakkodualma.pdb
